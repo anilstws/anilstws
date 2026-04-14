@@ -1,7 +1,6 @@
 # 👋 Welcome to My GitHub Profile  
 
-## Hi there! 👋 I'm Anil Singh
-### 🚀 Senior Full-Stack Developer  
+## Hi there! 👋 I'm Senior Full-Stack Developer  
 
 ---
 

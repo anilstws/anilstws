@@ -7,7 +7,8 @@
 
 ## 💡 About Me  
 
-I’m a passionate and experienced developer specializing in **React, Node.js, and Flutter**, building scalable web and mobile applications — from **MVPs to full-scale SaaS platforms**.  
+I’m a passionate and experienced developer specializing in **React, Node.js, and Flutter**, building scalable web and mobile applications — from **MVPs to full-scale SaaS platforms**.  I focus on robust backend architecture, high performance, and seamless user experiences across web and mobile.
+From idea validation → MVP → production → scaling, I build products on a solid technical foundation, helping avoid costly rebuilds later.
 
 ---
 

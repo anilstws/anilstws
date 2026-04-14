@@ -1,15 +1,17 @@
-<h1 align="left">Hello👋. Thank you for visiting my profile 👩🏾‍💻
-</h1>
-<h3 align="left">🚀 Senior Full-Stack Developer | SaaS | React, Node & Flutter Expert</h3>
+👋 Welcome to My GitHub Profile
 
----
+Hi there! 👋 I'm a Senior Full-Stack Developer
 
-## 💡 About Me  
-I help startups and growing businesses build **fast, stable, and scalable applications** using **React, Node.js, and Flutter** from MVP to full-scale SaaS platforms.  I focus on **strong backend architecture, optimized performance, and seamless user experiences** across web and mobile.  
+I’m a passionate and experienced developer specializing in React, Node.js, and Flutter, building scalable web and mobile applications — from MVPs to full-scale SaaS platforms.
 
-From idea validation → MVP → production → scaling, I ensure your product is built on a **solid technical foundation**, avoiding costly rebuilds later.
+🚀 About Me
+⚙️ Full-Stack Development: Expert in building high-performance web applications and RESTful APIs
+📱 Mobile Development: Creating cross-platform apps using Flutter
+☁️ Cloud & Deployment: Experience with AWS, Firebase, and scalable deployments
+🗄️ Database Management: Skilled in MongoDB, MySQL, and PostgreSQL
+🚀 SaaS Development: From idea validation → MVP → production → scaling
 
----
+I focus on clean architecture, performance optimization, and seamless user experience across platforms.
 
 ## 🎯 Free Consultation  
 

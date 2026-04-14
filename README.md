@@ -1,16 +1,24 @@
-👋 Welcome to My GitHub Profile
-Hi there! 👋 I'm Ashwani Kumar
-🚀 Senior Full-Stack Developer
-💡 About Me
+# 👋 Welcome to My GitHub Profile  
 
-I’m a passionate and experienced developer specializing in React, Node.js, and Flutter, building scalable web and mobile applications — from MVPs to full-scale SaaS platforms.
+## Hi there! 👋 I'm Ashwani Kumar  
+### 🚀 Senior Full-Stack Developer  
 
-🚀 What I Do
-⚙️ Full-Stack Development: Build high-performance web applications and RESTful APIs
-📱 Mobile Development: Develop cross-platform apps using Flutter
-☁️ Cloud & Deployment: Work with AWS, Firebase, and scalable infrastructure
-🗄️ Database Management: MongoDB, MySQL, PostgreSQL
-🚀 SaaS Development: Idea → MVP → Production → Scaling 
+---
+
+## 💡 About Me  
+
+I’m a passionate and experienced developer specializing in **React, Node.js, and Flutter**, building scalable web and mobile applications — from **MVPs to full-scale SaaS platforms**.  
+
+---
+
+## 🚀 What I Do  
+
+- ⚙️ **Full-Stack Development:** Build high-performance web applications and RESTful APIs  
+- 📱 **Mobile Development:** Develop cross-platform apps using Flutter  
+- ☁️ **Cloud & Deployment:** Work with AWS, Firebase, and scalable infrastructure  
+- 🗄️ **Database Management:** MongoDB, MySQL, PostgreSQL  
+- 🚀 **SaaS Development:** Idea → MVP → Production → Scaling  
+
 
 ---
 I focus on clean architecture, performance optimization, and seamless user experience across platforms.

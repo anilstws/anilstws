@@ -1,6 +1,6 @@
 # 👋 Welcome to My GitHub Profile  
 
-## Hi there! 👋 I'm Ashwani Kumar  
+## Hi there! 👋 I'm Anil Singh
 ### 🚀 Senior Full-Stack Developer  
 
 ---

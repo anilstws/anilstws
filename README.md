@@ -70,7 +70,6 @@ From idea validation → MVP → production → scaling, I ensure your product i
 
 💳 Stripe • Razorpay • Paytm  
 📩 Twilio • SendGrid  
-
 ---
 
 ## 🏆 Achievements  

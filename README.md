@@ -1,15 +1,10 @@
-<h1 align="center">Hi 👋, I'm Ashwani Kumar</h1>
+<h1 align="center">Hi 👋, I'm Anil Singh</h1>
 <h3 align="center">🚀 Senior Full-Stack Developer | SaaS | React, Node & Flutter Expert</h3>
 
 ---
 
 ## 💡 About Me  
-
-⚠️ Struggling with slow web apps, messy backend systems, or an MVP that doesn’t scale?  
-
-I help startups and growing businesses build **fast, stable, and scalable applications** using **React, Node.js, and Flutter** — from MVP to full-scale SaaS platforms.  
-
-I focus on **strong backend architecture, optimized performance, and seamless user experiences** across web and mobile.  
+I help startups and growing businesses build **fast, stable, and scalable applications** using **React, Node.js, and Flutter** — from MVP to full-scale SaaS platforms.  I focus on **strong backend architecture, optimized performance, and seamless user experiences** across web and mobile.  
 
 From idea validation → MVP → production → scaling, I ensure your product is built on a **solid technical foundation**, avoiding costly rebuilds later.
 

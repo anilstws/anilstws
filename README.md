@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Anil Singh</h1>
-<h3 align="center">🚀 Senior Full-Stack Developer | SaaS | React, Node & Flutter Expert</h3>
+<h1 align="left">Hi 👋, I'm Anil Singh</h1>
+<h3 align="left">🚀 Senior Full-Stack Developer | SaaS | React, Node & Flutter Expert</h3>
 
 ---
 

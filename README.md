@@ -20,10 +20,6 @@ From idea validation → MVP → production → scaling, I build products on a s
 - 🗄️ **Database Management:** MongoDB, MySQL, PostgreSQL  
 - 🚀 **SaaS Development:** Idea → MVP → Production → Scaling  
 
-
----
-I focus on clean architecture, performance optimization, and seamless user experience across platforms.
-
 ## 🎯 Free Consultation  
 
 ✔️ Review your current system or idea  
